@@ -25,3 +25,6 @@ Hello! Below is an outline of how I prepared the data, trained my models, and pr
 
 # Some output Snapshots
 
+![Screenshot (305)](https://github.com/Hemanth-s-bot/PNEUMONIA-DETECTION-USING-CNN/assets/175099717/6fa5f069-02fc-4067-9819-f85edd531339)
+![Screenshot (306)](https://github.com/Hemanth-s-bot/PNEUMONIA-DETECTION-USING-CNN/assets/175099717/2f5c89c3-90ab-4ae5-913e-901b8fdd6c74)
+![Screenshot (307)](https://github.com/Hemanth-s-bot/PNEUMONIA-DETECTION-USING-CNN/assets/175099717/3d7dc0d3-b63f-4c7c-ac62-1c72e1fad80d)
