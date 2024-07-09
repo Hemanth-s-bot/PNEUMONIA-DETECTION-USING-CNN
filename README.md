@@ -15,3 +15,7 @@ Hello! Below is an outline of how I prepared the data, trained my models, and pr
 
 # Dataset Count
 
+![Screenshot (302)](https://github.com/Hemanth-s-bot/PNEUMONIA-DETECTION-USING-CNN/assets/175099717/1fb449b4-8cfc-4bbf-af93-8b60b3fbcbd1)
+
+# Image Samples
+
